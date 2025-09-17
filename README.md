@@ -1,7 +1,5 @@
 <h1 align="center">
-<img src="https://i.postimg.cc/T1MvnzD9/PROFILE.jpg" alt="Your Profile Picture" width="150" style="border-radius: 80%;" />
-<br>
-Hello there, I'm Tenten!
+Hello there, I'm Jinglong ( Tenten )!
 </h1>
 
 <p align="center">
