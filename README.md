@@ -1,54 +1,61 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/26nfi4wF80CqV35r2/giphy.gif" alt="Coding GIF" width="80" />
-  Hi there, I'm <Your Name>!
+  <img src="https://media.giphy.com/media/XjJc7s7F1lO06t7sJc/giphy.gif" alt="Green Coding" width="100" />
+  Hi there, I'm <Your Name>! 👋
 </h1>
 
 <p align="center">
-  `class <Your Username>():`
+  A passionate developer crafting beautiful and functional digital solutions.
 </p>
 
 ---
 
+<h2 align="center">🌱 About Me</h2>
+
+-   🔭 I’m currently working on **[Project Name]**.
+-   🌱 I’m always learning about **[New Technology]**.
+-   👯 I’m looking to collaborate on **[Open Source Project]**.
+-   🤔 I’m looking for help with **[Specific Problem or Topic]**.
+-   💬 Ask me about **[Your Expertise]**.
+-   📫 How to reach me: **[Your Email]**
+-   ⚡ Fun fact: **[A Fun Fact about You]**
+
+---
+
+<h2 align="center">🛠️ My Skills & Tech Stack</h2>
+
 <p align="center">
-  <code>`def __init__(self):`</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-```python
-        self.name       = "Your Full Name"
-        self.username   = "Your Username"
-        self.location   = "Your City, Your Country"
-        self.discord    = "Your Discord#0000"
-        self.web        = "[https://your-website.com](https://your-website.com)"
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
 <p align="center">
-<code>def get_info(self):</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&rank_icon=github" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
 </p>
 
-Python
+---
 
-        # About Me
-        self.bio        = "I'm a passionate developer specializing in X and Y."
-        self.focus      = "I'm currently working on project A and learning about B."
-        self.interests  = "I love building new things and exploring new technologies."
+<h2 align="center">🔗 Connect with Me</h2>
 
-        # Skills and Tech Stack
-        self.skills = [
-            'Python', 'JavaScript', 'TypeScript', 'Node.js', 'React', 'HTML', 'CSS', 'Git', 'Docker'
-        ]
-<h2 align="center">⚡ My GitHub Stats</h2>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dvue%26count_private%3Dtrue" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dvue" alt="Top Languages" />
-</p>
-
-<h2 align="center">💬 Connect with Me</h2>
-<p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-%25231DA1F2.svg%3F%26style%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
-</a>
-<a href="mailto:your-email@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
